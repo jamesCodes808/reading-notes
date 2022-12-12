@@ -1,7 +1,7 @@
 # My Personal Journal
 
 #### About Me:
-My name is James Ian, I like nerdy things :video_game: and am an aspiring full stack developer specializing in python :snake:	
+My name is James Ian, I like nerdy things 🎮 and am an aspiring full stack developer specializing in python 🐍
 
 ![Itsa me James Ian](picture_resume_small.jpg)
 
