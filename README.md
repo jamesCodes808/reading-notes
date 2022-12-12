@@ -3,6 +3,8 @@
 #### About Me:
 My name is James Ian, I like nerdy things :video_game: and am an aspiring full stack developer specializing in python :snake:	
 
+![Itsa me James Ian](picture_resume_small.jpg)
+
 Here is a link to my [github portfolio](https://github.com/jamesCodes808) 
 
 ## What the 'Growth Mindset' means to me:
