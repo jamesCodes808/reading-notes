@@ -2,7 +2,7 @@
 
 #### About Me:
 My name is James Ian, I like nerdy things 🎮 and am an aspiring full stack developer specializing in python 🐍 
-Here are some of the things I have learned throughout my journey! :books:
+Here are some of the things I have learned throughout my journey! 📚
 
 ![Itsa me James Ian](picture_resume_small.jpg)
 
@@ -14,6 +14,8 @@ Email: [jamesian.r.solima@gmail.com](mailto:jamesian.r.solima@gmail.com)
 ## Table of Contents
 
 ## Code 102 Reading Notes
+<details closed>
+<summary>Classes</summary>
 
 - [Class 1](102/class1.md)
 - [Class 2](102/class2.md)
@@ -24,7 +26,11 @@ Email: [jamesian.r.solima@gmail.com](mailto:jamesian.r.solima@gmail.com)
 - [Class 7](102/class7.md)
 - [Class 8](102/class8.md)
 
+</details>
+
 ## Code 201 Reading Notes
+<details closed>
+<summary>Classes</summary>
 
 - [Class 1](201/class1.md)
 - [Class 2](201/class2.md)
@@ -42,5 +48,6 @@ Email: [jamesian.r.solima@gmail.com](mailto:jamesian.r.solima@gmail.com)
 - [Class 14](201/class14.md)
 - [Class 15](201/class15.md)
 
+</details>
 
 
