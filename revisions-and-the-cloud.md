@@ -2,7 +2,7 @@
 
 ## Class 3 - Revisions and the Cloud
 
-GitHub is a popular platform for hosting and collaborating on software projects. One key aspect of GitHub is its support for version control, (DVCS) which allows developers to keep track of changes to their codebase and collaborate with others on the same project.
+GitHub is a popular platform for hosting and collaborating on software projects. One key aspect of GitHub is its support for version control, (DVCS) which allows developers to keep track of changes and revisions to their codebase and collaborate with others on the same project through the cloud.
 
 One common workflow for using GitHub is to create a remote repository on the platform and push your local code changes to the remote repository. This allows you to access your code from anywhere and collaborate with other developers on the same project.
 
