@@ -1,4 +1,4 @@
-# Reflecting and Discussing 
+# Git, Github, the Cloud!
 
 ## Class 3 - Revisions and the Cloud
 
@@ -8,7 +8,7 @@ One common workflow for using GitHub is to create a remote repository on the pla
 
 For example, let's say you have a project on your local computer that you want to upload to GitHub. First, you would create a new repository on GitHub and then use the `git` command-line tool to push your local code to the remote repository. This would look something like this:
 
-```
+```markdown
 # initialize a local git repository
 ~ git init
 

@@ -8,7 +8,7 @@ see how it will be incredibly useful for organizing texts and adding readability
 A cool feature of GitHub markdown is the ability to add syntax highlighting to code blocks. This is incredibly useful for 
 showcasing code examples in a readable and easy-to-understand format, such as:
 
-```
+```javascript
     for(let i=0; i < 10; i++){
     console.log(i);
     }

@@ -1,4 +1,5 @@
-# The Coder's Most Important Tool, The Text Editor
+# The Coder's Most Important Tool, The Text Editor 
+
 ## Class 2 - The Coder's Computer
 
 There are several different classifications of text editors, including integrated development environments (IDEs), basic text editors, and code editors. 

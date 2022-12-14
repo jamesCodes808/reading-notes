@@ -1,6 +1,6 @@
-# Reflecting and Discussing 
+# Wireframes and HTML
 
-## Class 4 - Revisions and the Cloud
+## Class 4 - Structure Web Pages with HTML
 
 Wireframes and design are important elements of web development. A wireframe is 
 a visual representation of a website's structure and layout, showing the 
