@@ -16,28 +16,35 @@ Email: [jamesian.r.solima@gmail.com](mailto:jamesian.r.solima@gmail.com)
 ## Code 102 Reading Notes
 <details closed><summary>Classes</summary>
 
-[Class 1](102/class1.md)
-
-[Class 2](102/class2.md)
-
-[Class 3](102/class3.md)
-
-[Class 4](102/class4.md)
-
-[Class 5](102/class5.md)
-
-[Class 6](102/class6.md)
-
-[Class 7](102/class7.md)
-
-[Class 8](102/class8.md)
+<a href='102/class1.md'>Class 1</a>
+<a href='102/class2.md'>Class 2</a>
+<a href='102/class3.md'>Class 3</a>
+<a href='102/class4.md'>Class 4</a>
+<a href='102/class5.md'>Class 5</a>
+<a href='102/class6.md'>Class 6</a>
+<a href='102/class7.md'>Class 7</a>
+<a href='102/class8.md'>Class 8</a>
 
 </details>
 
 ## Code 201 Reading Not
 <details closed><summary>Classes</summary>
 
-[Class 1](201/class1.md)
+<a href='#'>Class 1</a>
+<a href='#'>Class 2</a>
+<a href='#'>Class 3</a>
+<a href='#'>Class 4</a>
+<a href='#'>Class 5</a>
+<a href='#'>Class 6</a>
+<a href='#'>Class 7</a>
+<a href='#'>Class 8</a>
+<a href='#'>Class 9</a>
+<a href='#'>Class 10</a>
+<a href='#'>Class 11</a>
+<a href='#'>Class 12</a>
+
+
+<!-- [Class 1](201/class1.md)
 
 [Class 2](201/class2.md)
 
@@ -65,7 +72,7 @@ Email: [jamesian.r.solima@gmail.com](mailto:jamesian.r.solima@gmail.com)
 
 [Class 14](201/class14.md)
 
-[Class 15](201/class15.md)
+[Class 15](201/class15.md) -->
 
 </details>
 
