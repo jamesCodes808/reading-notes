@@ -16,21 +16,21 @@ Email: [jamesian.r.solima@gmail.com](mailto:jamesian.r.solima@gmail.com)
 ## Code 102 Reading Notes
 <details closed><summary>Classes</summary>
 
-<a href='102/class1.md'>Class 1</a>
+<a href='102/learning-markdown.md'>Class 1</a>
 <br>
-<a href='102/class2.md'>Class 2</a>
+<a href='102/the-coders-computer.md'>Class 2</a>
 <br>
-<a href='102/class3.md'>Class 3</a>
+<a href='102/revisions-and-the-cloud.md'>Class 3</a>
 <br>
-<a href='102/class4.md'>Class 4</a>
+<a href='102/structure-web-pages-with-html.md'>Class 4</a>
 <br>
-<a href='102/class5.md'>Class 5</a>
+<a href='102/design-web-pages-with-css.md'>Class 5</a>
 <br>
-<a href='102/class6.md'>Class 6</a>
+<a href='102/dynamic-webpages-with-javascript.md'>Class 6</a>
 <br>
-<a href='102/class7.md'>Class 7</a>
+<a href='102/programming-with-javascript.md'>Class 7</a>
 <br>
-<a href='102/class8.md'>Class 8</a>
+<a href='102/operators-and-loops.md'>Class 8</a>
 <br>
 
 </details>
