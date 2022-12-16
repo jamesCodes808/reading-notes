@@ -35,7 +35,7 @@ Email: [jamesian.r.solima@gmail.com](mailto:jamesian.r.solima@gmail.com)
 
 </details>
 
-## Code 201 Reading Not
+## Code 201 Reading Notes
 <details closed><summary>Classes</summary>
 
 <a href='#'>Class 1</a>
@@ -68,7 +68,6 @@ Email: [jamesian.r.solima@gmail.com](mailto:jamesian.r.solima@gmail.com)
 <br>
 <a href='#'>Class 15</a>
 <br>
-
 
 
 
