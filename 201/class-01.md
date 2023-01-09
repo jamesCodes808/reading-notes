@@ -48,12 +48,13 @@ let age = "50";
 
 //Creating a number
 let age = 50;
-```
+
 In this example, the diffrences between creating a string vs creating a number is the parentheses around the data we are assigning to the variable. 
 
 In a String, we use "parentheses" around the 50, making it a string that will display `"50"`
 
 In a number, we do not use parentheses around the `50`
+```
 
 - What is a Variable and why are they important in JavaScript?
 
@@ -64,6 +65,7 @@ We can store whatever kind of data we need to in these containers and we can man
 
 This is why variables are important.  variables are important to javascript because it allows our programs to be dynamic with data. 
 ```
+
 ### Introduction to HTML
 
 What is an HTML attribute?
