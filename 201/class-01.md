@@ -6,36 +6,36 @@
 
 - Compose a short poem describing how HTTP sends data between computers.
 
->HTTP, you're so good to me
-When i request something
-You send it through my TCP/IP
-Your language is so confusing
-And you work just like a sage
-doing magic in the background
-to give me a nice webpage
+>HTTP, you're so good to me<br>
+>When i request something<br>
+>You send it through my TCP/IP<br>
+>Your language is so confusing<br>
+>And you work just like a sage<br>
+>doing magic in the background<br>
+>to give me a nice webpage<br>
 
 
 - Describe how HTML, CSS, and JS files are “parsed” in the browser.
 
 
 >The order that the browser parses a webpage is with the HTML file first. As the browser is parsing the HTML file, it will read the metadata in the <head> portion of the HTML file and recognize any <link> and/or <script> elements. 
-
+>
 >With this data the browser creates a DOM (Document Object Model) tree from the HTML, CSSOM (CSS Object Model) from the CSS and compiles and executes the JavaScript code.
-
+>
 >All of this is combined to instruct the browser how to display the webpage, what the contents are and how it should behave to the user.
 
 - How can you find images to add to a Website?
 
 
 >There are a couple of different ways to find images to add to a website. 
-
->The most prominent place for any type of image or information is through:
-    https://google.com
-
+>
+>The most prominent place for any type of image or information is through:<br>
+>    https://google.com
+>
 >Some places that I go to get images that are royalty free are:
-    https://unsplash.com
-    https://blush.design
-    https://storyset.com
+>    https://unsplash.com <br>
+>    https://blush.design <br>
+>    https://storyset.com <br>
 
 
 
@@ -48,9 +48,9 @@ let age = "50";
 let age = 50;
 ```
 >In this example, the diffrences between creating a string vs creating a number is the parentheses around the data we are assigning to the variable. 
-
+>
 >In a String, we use "parentheses" around the 50, making it a string that will display "50"
-
+>
 >In a number, we do NOT use parentheses around the `50` making it a number that we can perform mathematical operations on.
 
 
@@ -58,9 +58,9 @@ let age = 50;
 
 
 >When we create variables we are creating and naming containers for data. 
-
+>
 >We can store whatever kind of data we need to in these containers and we can manipulate them depending on the type of container it is making it dynamic. 
-
+>
 >This is why variables are important.  variables are important to javascript because it allows our programs to be dynamic with data. 
 
 
