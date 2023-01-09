@@ -51,9 +51,9 @@ let age = 50;
 
 In this example, the diffrences between creating a string vs creating a number is the parentheses around the data we are assigning to the variable. 
 
-In a String, we use "parentheses" around the 50, making it a string that will display `"50"`
+In a String, we use "parentheses" around the 50, making it a string that will display "50"
 
-In a number, we do not use parentheses around the `50`
+In a number, we do NOT use parentheses around the `50` making it a number that we can perform mathematical operations on.
 ```
 
 - What is a Variable and why are they important in JavaScript?
@@ -68,37 +68,37 @@ This is why variables are important.  variables are important to javascript beca
 
 ### Introduction to HTML
 
-What is an HTML attribute?
+- What is an HTML attribute?
 
-Describe the Anatomy of an HTMl element.
+- Describe the Anatomy of an HTMl element.
 What is the Difference between <article> and <section> element tags?
 
-What Elements does a “typical” website include?
+- What Elements does a “typical” website include?
 
-How does metadata influence Search Engine Optimization?
+- How does metadata influence Search Engine Optimization?
 
-How is the <meta> HTML tag used when specifying metadata?
+- How is the <meta> HTML tag used when specifying metadata?
 
 ### Miscellaneous
 
 #### How to start to design a Website
 
-What is the first step to designing a Website?
+- What is the first step to designing a Website?
 
-What is the most important question to answer when designing a Website?
+- What is the most important question to answer when designing a Website?
 
 #### Semantics
 
-Why should you use an <h1> element over a <span> element to display a top level heading?
+- Why should you use an <h1> element over a <span> element to display a top level heading?
 
-What are the benefits of using semantic tags in our HTML?
+- What are the benefits of using semantic tags in our HTML?
 
 #### What is JavaScript?
 
-Describe 2 things that require JavaScript in the Browser?
+- Describe 2 things that require JavaScript in the Browser?
 
-How can you add JavaScript to an HTML documen
-
+- How can you add JavaScript to an HTML document?
+>
 
 >References
 >
