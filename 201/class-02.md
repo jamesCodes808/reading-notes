@@ -12,13 +12,13 @@
 - What are some uses for the `<sup>` and `<sub>` elements?
 >The `<sub>` stands for subscript and the `<sup>` stands for superscript. Some uses for the `<sub>` and `<sup>` elements are in marking up dates, chemical formulas and mathematical equations. 
 >Example of what it would look like: 
-```html
+```
 <p>Today is the 10<sup>th</sup> of January 2023.
 ```
 
 - When using the `<abbr>` element, what attribute must be added to provide the full expansion of the term?
 >When you are using the `<abbr>` element, the `title` attribute must be added with the full word that is being abbreviated. Such as:
-```html
+```
 <p> My address is on 1234 madeup <abbr title="Court">Ct.</abbr>.
 ```
 
@@ -30,7 +30,7 @@
 - Why should we avoid using inline styles?
 >We should avoid using inline styles whenever possible because it is the least efficient way to implement CSS and for the sake of maintaining a website. When we have to go back and edit the CSS, with inline styling, we would have to go into each element and edit them. Best practice is to separate the HTML, CSS, and JS files when possible.
 - Review the block of code below and answer the following questions:
-```css
+```
    h2 {
      color: black;
      padding: 5px;
