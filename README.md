@@ -41,7 +41,7 @@ Email: [jamesian.r.solima@gmail.com](mailto:jamesian.r.solima@gmail.com)
 
 <a href='https://jamescodes808.github.io/reading-notes/201/class-01'>Class 1</a>
 <br>
-<a href='#'>Class 2</a>
+<a href='https://jamescodes808.github.io/reading-notes/201/class-02'>Class 2</a>
 <br>
 <a href='#'>Class 3</a>
 <br>
