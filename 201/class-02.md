@@ -9,7 +9,7 @@
 - How many levels of headings are there in HTML?
 >There are 6 levels of headings in HTML. `<h1>, <h2>, <h3>, <h4>, <h5>, <h6>`
 
-- What are some uses for the <sup> and <sub> elements?
+- What are some uses for the `<sup>` and `<sub>` elements?
 >The `<sub>` stands for subscript and the `<sup>` stands for superscript. Some uses for the `<sub>` and `<sup>` elements are in marking up dates, chemical formulas and mathematical equations. 
 >Example of what it would look like: 
 ```html
