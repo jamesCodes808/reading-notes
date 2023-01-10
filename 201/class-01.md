@@ -16,7 +16,7 @@
 
 - Describe how HTML, CSS, and JS files are “parsed” in the browser.
 
->The order that the browser parses a webpage is with the HTML file first. As the browser is parsing the HTML file, it will read the metadata in the <head> portion of the HTML file and recognize any <link> and/or <script> elements. 
+>The order that the browser parses a webpage is with the HTML file first. As the browser is parsing the HTML file, it will read the metadata in the `<head>` portion of the HTML file and recognize any `<link>` and/or `<script>` elements. 
 >
 >With this data the browser creates a DOM (Document Object Model) tree from the HTML, CSSOM (CSS Object Model) from the CSS and compiles and executes the JavaScript code.
 >
@@ -70,15 +70,15 @@ let age = 50;
 >The href is the attribute, containing information for where the <a> HTML element refers to.
 
 - Describe the Anatomy of an HTMl element.
-What is the Difference between <article> and <section> element tags?
+What is the Difference between `<article>` and `<section>` element tags?
 
->An HTML element is made up of a start tag, content, and an end tag. The start tag usually looks something like <article> or <section>, and the end tag is the same as the start tag but with a forward slash before the element name, like </article> or </section>. The content is the information that appears between the start and end tags.
+>An HTML element is made up of a start tag, content, and an end tag. The start tag usually looks something like `<article>` or `<section>`, and the end tag is the same as the start tag but with a forward slash before the element name, like `</article>` or `</section>`. The content is the information that appears between the start and end tags.
 >
->The <article> element is used to represent a self-contained piece of content, such as a blog post or newspaper article. It is meant to stand alone and make sense on its own, even if it is removed from the rest of the page. 
+>The `<article>` element is used to represent a self-contained piece of content, such as a blog post or newspaper article. It is meant to stand alone and make sense on its own, even if it is removed from the rest of the page. 
 >
->On the other hand, the <section> element is used to group together related content on a page, such as chapters of a book or different sections of an article. It is used to divide the page into different sections, but the content within a <section> element may not necessarily make sense on its own.
+>On the other hand, the `<section>` element is used to group together related content on a page, such as chapters of a book or different sections of an article. It is used to divide the page into different sections, but the content within a `<section>` element may not necessarily make sense on its own.
 >
-For example, if you had a webpage about a recipe and you wanted to include the ingredients and instructions, you might use an <article> element for the whole recipe and then use <section> elements to divide the recipe into the ingredients and instructions. It would look something like this:
+For example, if you had a webpage about a recipe and you wanted to include the ingredients and instructions, you might use an `<article>` element for the whole recipe and then use `<section>` elements to divide the recipe into the ingredients and instructions. It would look something like this:
 ```html
 <article>
   <h1>Chocolate Chip Cookies</h1>
@@ -122,8 +122,8 @@ For example, if you had a webpage about a recipe and you wanted to include the i
 >When a search engine crawls a webpage, it looks at the metadata to understand what the page is about and how it should be indexed. If the metadata is well-written and includes relevant keywords, it can help the page rank higher in search results for those keywords.
 
 
-- How is the <meta> HTML tag used when specifying metadata?
->The <meta> tag is placed in the <head> section of an HTML document and can be used to specify various types of metadata, such as the page's description, keywords, author, and other information. For example, you can use the <meta> tag to specify a description of the page's content like this:
+- How is the `<meta>` HTML tag used when specifying metadata?
+>The `<meta>` tag is placed in the `<head>` section of an HTML document and can be used to specify various types of metadata, such as the page's description, keywords, author, and other information. For example, you can use the `<meta>` tag to specify a description of the page's content like this:
 ```html
 <meta charset="utf-8" name="description" content="This page is about chocolate chip cookies and includes a recipe and instructions for making them.">
 
@@ -142,11 +142,11 @@ For example, if you had a webpage about a recipe and you wanted to include the i
 
 #### Semantics
 
-- Why should you use an <h1> element over a <span> element to display a top level heading?
->According to the Mozilla Developer Network, it is generally recommended to use an <h1> element to display a top level heading on a webpage rather than a <span> element. This is because the <h1> element has semantic meaning and conveys to the browser and search engines that the content contained within it is a top level heading. This can have an impact on the way the content is displayed and how it is interpreted by assistive technologies such as screen readers.
+- Why should you use an `<h1>` element over a `<span>` element to display a top level heading?
+>According to the Mozilla Developer Network, it is generally recommended to use an `<h1>` element to display a top level heading on a webpage rather than a `<span>` element. This is because the `<h1>` element has semantic meaning and conveys to the browser and search engines that the content contained within it is a top level heading. This can have an impact on the way the content is displayed and how it is interpreted by assistive technologies such as screen readers.
 
 - What are the benefits of using semantic tags in our HTML?
->The benefits of using semantic tags in our HTML is that it gives the HTML elements meaning and purpose in the structure of the webpage. Such as <header>, <section> and <footer>.
+>The benefits of using semantic tags in our HTML is that it gives the HTML elements meaning and purpose in the structure of the webpage. Such as `<header>`, `<section>` and `<footer>`.
 
 #### What is JavaScript?
 
@@ -165,14 +165,14 @@ For example, if you had a webpage about a recipe and you wanted to include the i
 <button onclick="alert('Hello World!')">Click me</button>
 ```
 >
->Internal Script: You can add a script to the <head> or <body> of an HTML document by using the <script> element. For example:
+>Internal Script: You can add a script to the `<head>` or `<body>` of an HTML document by using the `<script>` element. For example:
 ```javascript
 <script>
   alert('Hello World!');
 </script>
 ```
 >
->External script: You can add a script to an HTML document by linking to an external script file using the <script> element and the src attribute. For example:
+>External script: You can add a script to an HTML document by linking to an external script file using the `<script>` element and the src attribute. For example:
 ```javascript
 <script src="/path/to/script.js"></script>
 ```
