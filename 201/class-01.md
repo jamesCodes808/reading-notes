@@ -197,3 +197,6 @@ For example, if you had a webpage about a recipe and you wanted to include the i
 >[What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
 ## Things I want to know more about
+- Including other libraries into the HTML document
+- How to use metadata in a webpage
+- Uncommon attributes
