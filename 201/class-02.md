@@ -21,8 +21,7 @@
 ```html
 <p> My address is on 1234 madeup <abbr title="Court">Ct.</abbr>.
 ```
->It would look like this.
-> <p> My address is on 1234 madeup <abbr title="Court">Ct.</abbr>.
+
 
 ### Learn CSS
 - What are ways we can apply CSS to our HTML?
