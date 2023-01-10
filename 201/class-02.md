@@ -15,7 +15,7 @@
 ```html
 <p>Today is the 10<sup>th</sup> of January 2023.
 ```
-><p>Today is the 10<sup>th</sup> of January 2023.
+<p>Today is the 10<sup>th</sup> of January 2023.
 
 - When using the `<abbr>` element, what attribute must be added to provide the full expansion of the term?
 >When you are using the `<abbr>` element, the `title` attribute must be added with the full word that is being abbreviated. Such as:
