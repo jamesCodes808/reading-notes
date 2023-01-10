@@ -12,12 +12,14 @@
 - What are some uses for the `<sup>` and `<sub>` elements?
 >The `<sub>` stands for subscript and the `<sup>` stands for superscript. Some uses for the `<sub>` and `<sup>` elements are in marking up dates, chemical formulas and mathematical equations. 
 >Example of what it would look like: 
+>
 ```
 <p>Today is the 10<sup>th</sup> of January 2023.
 ```
 
 - When using the `<abbr>` element, what attribute must be added to provide the full expansion of the term?
 >When you are using the `<abbr>` element, the `title` attribute must be added with the full word that is being abbreviated. Such as:
+>
 ```
 <p> My address is on 1234 madeup <abbr title="Court">Ct.</abbr>.
 ```
@@ -29,17 +31,22 @@
 
 - Why should we avoid using inline styles?
 >We should avoid using inline styles whenever possible because it is the least efficient way to implement CSS and for the sake of maintaining a website. When we have to go back and edit the CSS, with inline styling, we would have to go into each element and edit them. Best practice is to separate the HTML, CSS, and JS files when possible.
+
 - Review the block of code below and answer the following questions:
+
 ```
    h2 {
      color: black;
      padding: 5px;
    }
 ```
+
 - What is representing the selector?
 >the `h2` selector.
+
 - Which components are the CSS declarations?
 >the `color` and `padding`
+
 - Which components are considered properties?
 >the `black` and the `5px`
 
@@ -57,10 +64,13 @@
 
 - An if statement checks a __ and if it evaluates to ___, then the code block will execute.
 >condition, true
+
 - What is the use of an else if?
 >to provide more choices if the first if statement is 
+
 - List 3 different types of comparison operators.
 >`===` strict equals, `<` less than, `>` greater than
+
 - What is the difference between the logical operator && and ||?
 >`&&` is true if both expressions are true, `||` is true if one of the expressions are true
 
@@ -77,3 +87,6 @@
 >[Making decisions in your code — conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
 
 ## Things I want to know more about
+- using conditionals
+- when we would ever use inline styles
+- functions and events
