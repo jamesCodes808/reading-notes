@@ -13,6 +13,7 @@
 >The `<sub>` stands for subscript and the `<sup>` stands for superscript. Some uses for the `<sub>` and `<sup>` elements are in marking up dates, chemical formulas and mathematical equations. 
 >Example of what it would look like: 
 >
+
 ```
 <p>Today is the 10<sup>th</sup> of January 2023.
 ```
@@ -20,6 +21,7 @@
 - When using the `<abbr>` element, what attribute must be added to provide the full expansion of the term?
 >When you are using the `<abbr>` element, the `title` attribute must be added with the full word that is being abbreviated. Such as:
 >
+
 ```
 <p> My address is on 1234 madeup <abbr title="Court">Ct.</abbr>.
 ```

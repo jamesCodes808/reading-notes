@@ -37,6 +37,7 @@
 
 
 - How do you create a String vs a Number in JavaScript?
+
 ```javascript
 // Creating a string
 let age = "50";
@@ -44,6 +45,7 @@ let age = "50";
 //Creating a number
 let age = 50;
 ```
+
 >In this example, the diffrences between creating a string vs creating a number is the parentheses around the data we are assigning to the variable. 
 >
 >In a String, we use "parentheses" around the 50, making it a string that will display "50"
@@ -64,12 +66,14 @@ let age = 50;
 
 - What is an HTML attribute?
 >There are many things that HTML attributes do, most are unseen unless it is the `style` inline css attribute. In general, HTML attributes have information for the HTML element that they live in. For example:
+
 ```HTML
 <a href="https://google.com">Google</a>
 ```
+
 >The href is the attribute, containing information for where the <a> HTML element refers to.
 
-- Describe the Anatomy of an HTMl element.
+- Describe the Anatomy of an HTML element.
 What is the Difference between `<article>` and `<section>` element tags?
 
 >An HTML element is made up of a start tag, content, and an end tag. The start tag usually looks something like `<article>` or `<section>`, and the end tag is the same as the start tag but with a forward slash before the element name, like `</article>` or `</section>`. The content is the information that appears between the start and end tags.
@@ -79,6 +83,7 @@ What is the Difference between `<article>` and `<section>` element tags?
 >On the other hand, the `<section>` element is used to group together related content on a page, such as chapters of a book or different sections of an article. It is used to divide the page into different sections, but the content within a `<section>` element may not necessarily make sense on its own.
 >
 For example, if you had a webpage about a recipe and you wanted to include the ingredients and instructions, you might use an `<article>` element for the whole recipe and then use `<section>` elements to divide the recipe into the ingredients and instructions. It would look something like this:
+
 ```html
 <article>
   <h1>Chocolate Chip Cookies</h1>
@@ -124,6 +129,7 @@ For example, if you had a webpage about a recipe and you wanted to include the i
 
 - How is the `<meta>` HTML tag used when specifying metadata?
 >The `<meta>` tag is placed in the `<head>` section of an HTML document and can be used to specify various types of metadata, such as the page's description, keywords, author, and other information. For example, you can use the `<meta>` tag to specify a description of the page's content like this:
+
 ```html
 <meta charset="utf-8" name="description" content="This page is about chocolate chip cookies and includes a recipe and instructions for making them.">
 
@@ -135,9 +141,11 @@ For example, if you had a webpage about a recipe and you wanted to include the i
 #### How to start to design a Website
 
 - What is the first step to designing a Website?
+
 >According to the Mozilla Developer Network, the first step in designing a website is to identify the purpose and goals of the website. This involves understanding the target audience, the type of content that will be presented on the website, and the desired actions that visitors should take when they visit the website. By clearly defining the purpose and goals of the website, you can create a roadmap for the design and development process and ensure that the final product meets the needs of the target audience. This step is important because it helps to establish the direction and focus of the project, and it can save time and resources in the long run by avoiding the need to make major changes later on in the process.
 
 - What is the most important question to answer when designing a Website?
+
 >According to the Mozilla Developer Network, the most important question to answer when designing a website is "What is the purpose of the website?" Identifying the purpose and goals of the website is the first step in the design process and helps to establish the direction and focus of the project. 
 
 #### Semantics
@@ -161,6 +169,7 @@ For example, if you had a webpage about a recipe and you wanted to include the i
 >According to the Mozilla Developer Network, there are three ways to add JavaScript to an HTML document:
 >
 >Inline script: You can add JavaScript directly to an HTML element by using the script attribute. For example:
+
 ```javascript
 <button onclick="alert('Hello World!')">Click me</button>
 ```
@@ -171,12 +180,13 @@ For example, if you had a webpage about a recipe and you wanted to include the i
   alert('Hello World!');
 </script>
 ```
+
 >
 >External script: You can add a script to an HTML document by linking to an external script file using the `<script>` element and the src attribute. For example:
+
 ```javascript
 <script src="/path/to/script.js"></script>
 ```
-
 
 >References
 >

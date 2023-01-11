@@ -18,6 +18,7 @@
 - Describe two ways you can change the numbers on list items provided by an ordered list?
 >the `<ol>` element accepts certain attributes. Some of these attributes include:
 `reversed`, `start`, and `type`. To change the numbers on the list items you could use:
+
 ```
 <ol type="a"> sets numbering type to lowercase letters
 <ol type="1"> sets numbering type to numbers (default)
@@ -44,15 +45,18 @@
 >
 
 - Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
+
 ```javascript
  const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];
 ```
+
 >Yes this is a valid javascript array. In order to access the values stored inside we would have to use the angle brackets with an index number such as:
 `people[0]` which would retrieve `["pete",32,"librarian",null]` from the array. To acces the items inside of that index we would use: 
 `people[0][0]` which would give us 'pete'.
 >
 
 - List five shorthand operators for assignment in javascript and describe what they do.
+
 ```javascript
 = //assignment operator, assigns data to a variable
 += //addition assignment, shorthand for x = x + y
@@ -63,6 +67,7 @@
 
 
 - Read the code below and evaluate the last expression and explain what the result would be and why.
+
 ```javascript
  let a = 10;
  let b = 'dog';
@@ -80,6 +85,7 @@
 
 - Give an example of when a Loop is useful in JavaScript.
 >A loop would be useful if  you want to repeat code a certain amount of times, or if you just want to repeat code in general. One example would be to get through an array. We can create an array and a for loop. We would use the `i` in the first expression to index through an array, looking something like this
+
 ```javascript
 let arrayOfNumbers = [0,1,2,3,4,5,6]
 
