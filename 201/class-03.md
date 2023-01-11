@@ -8,7 +8,7 @@
 >
 
 - How do you change the bullet style of unordered list items?
->To change the bullet style of unordered list items you have to use the CSS ` list-style-type` property on the `<ul>`
+>To change the bullet style of unordered list items you have to use the CSS `list-style-type` property on the `<ul>`
 >
 
 - When should you use an ordered list vs an unordered list in your HTML document?
