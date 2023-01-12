@@ -72,3 +72,6 @@ In my experience, I benefit from pair programming because it helps me learn from
 
 
 ### Things I want to know more about
+- Using functions and loops together
+- More about CSS positioning
+- Best practices when pair programming
