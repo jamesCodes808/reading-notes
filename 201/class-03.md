@@ -2,7 +2,7 @@
 
 ## Class 3
 
-### HTML 
+### HTML: Lists
 - When should you use an unordered list in your HTML document?
 You should use unordered lists in an HTML document when you are listing a group of items that have no numerical order. Some examples of good unordered list item groups are links, navigation group, or a
 
@@ -26,7 +26,7 @@ the `<ol>` element accepts certain attributes. Some of these attributes include:
 ```
 
 
-### CSS
+### CSS: Properties, Box Model
 - Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?
 
 In the story of "The Box Model," There was a main character named element who wore a border armor because he needed to be protected. Margin and Padding were two friends of element who had very different roles. Margin was able to manipulate the amount of space outside of element's border armor, while Padding was able to manipulate the amount of space inside of element's border armor, closer to the element's content.
@@ -39,7 +39,7 @@ Together, Margin and Padding were integral to element. Without Margin and Paddin
 In order of outermost part: margin, border, padding, content
 
 
-### JS
+### JS: Arrays & Loops
 
 - What data types can you store inside of an Array?
 Arrays are able to hold strings, numbers, objects, and other arrays.
