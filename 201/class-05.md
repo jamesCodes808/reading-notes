@@ -58,3 +58,5 @@ Two ways to add spacing vertically between characters are the properties `letter
 >[Fundamental text and font styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
 
 ### Things I want to learn more about
+- I definitely want to get a better understanding of the CSS box model, and how it works with positioning
+- The usage of image formats in real-world situations
