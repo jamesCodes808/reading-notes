@@ -79,3 +79,7 @@ Javascript has access to the DOM through its elements being seen as objects and 
 >[Javascript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
 >
 >[Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+
+### Things I want to learn more about
+- DOM manipulation through javascript
+- Using functions to create object literals
