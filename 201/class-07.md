@@ -50,3 +50,5 @@ An analogy of this from my previous job is when a new person onboards into our t
 >[A Beginner's Guide to Javascript's Prototype](https://ui.dev/beginners-guide-to-javascript-prototype)
 
 ### Things I want to know more about
+- I definitely want to know more about prototypes and inheritance
+- javascript classes and arrow functions
