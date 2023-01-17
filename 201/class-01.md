@@ -66,6 +66,7 @@ This is why variables are important.  variables are important to javascript beca
 ### Introduction to HTML
 
 - What is an HTML attribute?
+
 There are many things that HTML attributes do, most are unseen unless it is the `style` inline css attribute. In general, HTML attributes have information for the HTML element that they live in. For example:
 
 ```HTML
@@ -75,6 +76,7 @@ There are many things that HTML attributes do, most are unseen unless it is the 
 The href is the attribute, containing information for where the <a> HTML element refers to.
 
 - Describe the Anatomy of an HTML element.
+
 What is the Difference between `<article>` and `<section>` element tags?
 
 An HTML element is made up of a start tag, content, and an end tag. The start tag usually looks something like `<article>` or `<section>`, and the end tag is the same as the start tag but with a forward slash before the element name, like `</article>` or `</section>`. The content is the information that appears between the start and end tags.
@@ -110,6 +112,7 @@ For example, if you had a webpage about a recipe and you wanted to include the i
 ```
 
 - What Elements does a “typical” website include?
+
 A typical website will include several elements such as a header, navigation menu, main content area, and a footer.
 
 The header is usually located at the top of the page and may include a logo or title for the website.
@@ -118,17 +121,19 @@ The navigation menu allows users to easily move around the website by providing 
 
 The main content area is where the main information on the webpage is displayed. This could include text, images, and other media.
 
->The footer is usually located at the bottom of the page and may include additional links, copyright information, and other important details.
+The footer is usually located at the bottom of the page and may include additional links, copyright information, and other important details.
 
 
 
 - How does metadata influence Search Engine Optimization?
->Metadata is information about a webpage that is not visible to users, but is used by search engines to understand the content of the page. This can include the title of the page, a description of the page's content, and relevant keywords.
 
->When a search engine crawls a webpage, it looks at the metadata to understand what the page is about and how it should be indexed. If the metadata is well-written and includes relevant keywords, it can help the page rank higher in search results for those keywords.
+Metadata is information about a webpage that is not visible to users, but is used by search engines to understand the content of the page. This can include the title of the page, a description of the page's content, and relevant keywords.
+
+When a search engine crawls a webpage, it looks at the metadata to understand what the page is about and how it should be indexed. If the metadata is well-written and includes relevant keywords, it can help the page rank higher in search results for those keywords.
 
 
 - How is the `<meta>` HTML tag used when specifying metadata?
+
 The `<meta>` tag is placed in the `<head>` section of an HTML document and can be used to specify various types of metadata, such as the page's description, keywords, author, and other information. For example, you can use the `<meta>` tag to specify a description of the page's content like this:
 
 ```html
@@ -152,14 +157,17 @@ According to the Mozilla Developer Network, the most important question to answe
 #### Semantics
 
 - Why should you use an `<h1>` element over a `<span>` element to display a top level heading?
+
 According to the Mozilla Developer Network, it is generally recommended to use an `<h1>` element to display a top level heading on a webpage rather than a `<span>` element. This is because the `<h1>` element has semantic meaning and conveys to the browser and search engines that the content contained within it is a top level heading. This can have an impact on the way the content is displayed and how it is interpreted by assistive technologies such as screen readers.
 
 - What are the benefits of using semantic tags in our HTML?
+
 The benefits of using semantic tags in our HTML is that it gives the HTML elements meaning and purpose in the structure of the webpage. Such as `<header>`, `<section>` and `<footer>`.
 
 #### What is JavaScript?
 
 - Describe 2 things that require JavaScript in the Browser?
+
 According to the Mozilla Developer Network, JavaScript is a programming language that is commonly used in web development to add interactivity and dynamic behavior to websites. There are many things that require JavaScript in the browser, but some examples include:
 
 Client-side form validation: JavaScript can be used to validate form input on the client-side before the form is submitted. This can help to improve the user experience by providing immediate feedback if there are any errors in the form and can also help to reduce the workload on the server.
@@ -167,6 +175,7 @@ Client-side form validation: JavaScript can be used to validate form input on th
 Dynamic web pages: JavaScript can be used to create dynamic web pages that can change and update content without needing to refresh the page. For example, you can use JavaScript to display the current time, update a shopping cart, or retrieve data from a server.
 
 - How can you add JavaScript to an HTML document?
+
 According to the Mozilla Developer Network, there are three ways to add JavaScript to an HTML document:
 
 Inline script: You can add JavaScript directly to an HTML element by using the script attribute. For example:
