@@ -36,3 +36,5 @@ Some of my long term goals are to be in a full stack dev role. I want to create 
 >[Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 
 ### Things I want to know more about
+- I want to know how to implement flexbox to my layout styling
+- Can you use flexbox AND floats/positions?
