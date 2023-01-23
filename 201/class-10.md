@@ -35,3 +35,9 @@ A call stack is a section that allows you to see what code was executed to get t
 >[What went wrong? Troubleshooting JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong)
 >
 >[What are browser developer tools?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools#the_javascript_debugger)
+
+## Things I want to know more about:
+
+- Breakpoints in action.
+
+- Can you debug code in a text editor or only the dev tools on the browser?
