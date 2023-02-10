@@ -14,7 +14,7 @@ Email: [jamesian.r.solima@gmail.com](mailto:jamesian.r.solima@gmail.com)
 
 ## Table of Contents
 
-## Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 <details closed><summary>Classes</summary>
 
 <a href='https://jamescodes808.github.io/reading-notes/102/learning-markdown'>Class 1</a>
@@ -36,7 +36,7 @@ Email: [jamesian.r.solima@gmail.com](mailto:jamesian.r.solima@gmail.com)
 
 </details>
 
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 <details closed><summary>Classes</summary>
 
 <a href='https://jamescodes808.github.io/reading-notes/201/class-01'>Class 1</a>
@@ -69,11 +69,41 @@ Email: [jamesian.r.solima@gmail.com](mailto:jamesian.r.solima@gmail.com)
 <br>
 <a href='https://jamescodes808.github.io/reading-notes/201/class-14.b'>Class 14.b</a>
 <br>
-<a href='#'>Class 15</a>
-<br>
-
-
 
 </details>
 
+## Code 301 - Intermediate Software Development
+<details closed><summary>Classes</summary>
 
+<a href='https://jamescodes808.github.io/reading-notes/301/#'>Class 1</a>
+<br>
+<a href='https://jamescodes808.github.io/reading-notes/301/#'>Class 2</a>
+<br>
+<a href='https://jamescodes808.github.io/reading-notes/301/#'>Class 3</a>
+<br>
+<a href='https://jamescodes808.github.io/reading-notes/301/#'>Class 4</a>
+<br>
+<a href='https://jamescodes808.github.io/reading-notes/301/#'>Class 5</a>
+<br>
+<a href='https://jamescodes808.github.io/reading-notes/301/#'>Class 6</a>
+<br>
+<a href='https://jamescodes808.github.io/reading-notes/301/#'>Class 7</a>
+<br>
+<a href='https://jamescodes808.github.io/reading-notes/301/#'>Class 8</a>
+<br>
+<a href='https://jamescodes808.github.io/reading-notes/301/#'>Class 9</a>
+<br>
+<a href='https://jamescodes808.github.io/reading-notes/301/#'>Class 10</a>
+<br>
+<a href='https://jamescodes808.github.io/reading-notes/301/#'>Class 11</a>
+<br>
+<a href='https://jamescodes808.github.io/reading-notes/301/#'>Class 12</a>
+<br>
+<a href='https://jamescodes808.github.io/reading-notes/301/#'>Class 13</a>
+<br>
+<a href='https://jamescodes808.github.io/reading-notes/301/#'>Class 14</a>
+<br>
+<a href='https://jamescodes808.github.io/reading-notes/301/#'>Class 15</a>
+<br>
+
+</details>
