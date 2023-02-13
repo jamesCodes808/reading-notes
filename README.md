@@ -1,7 +1,7 @@
 # My Personal Journal
 
 #### About Me:
-![Itsa me James Ian](picture_resume_smalll-circle2019.png)
+![Itsa me James Ian](headshot2022-circle.png)
 My name is James Ian, I like nerdy things 🎮 and am an aspiring full stack developer specializing in python 🐍 
 Here are some of the things I have learned throughout my journey! 📚 
 
