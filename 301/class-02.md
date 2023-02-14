@@ -40,6 +40,14 @@ We want to re-render the application when something needs to change based on use
 
 Some examples are counters, forms, input elements and things that need to be updated by the user.
 
+## Things I want to know more about
+
+- Updating components 
+
+- Seeing the lifecycle live and if
+
+- Understanding how to use state and props and how to modify them
+
 >References
 >
 >[React: Component Lifecycle Events](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
