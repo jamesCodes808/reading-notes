@@ -89,7 +89,7 @@ Email: [jamesian.r.solima@gmail.com](mailto:jamesian.r.solima@gmail.com)
 <br>
 <a href='https://jamescodes808.github.io/reading-notes/301/class-06'>Class 6</a>
 <br>
-<a href='https://jamescodes808.github.io/reading-notes/301/#'>Class 7</a>
+<a href='https://jamescodes808.github.io/reading-notes/301/class-07'>Class 7</a>
 <br>
 <a href='https://jamescodes808.github.io/reading-notes/301/#'>Class 8</a>
 <br>
