@@ -95,7 +95,7 @@ Email: [jamesian.r.solima@gmail.com](mailto:jamesian.r.solima@gmail.com)
 <br>
 <a href='https://jamescodes808.github.io/reading-notes/301/class-09'>Class 9</a>
 <br>
-<a href='https://jamescodes808.github.io/reading-notes/301/#'>Class 10</a>
+<a href='https://jamescodes808.github.io/reading-notes/301/class-10'>Class 10</a>
 <br>
 <a href='https://jamescodes808.github.io/reading-notes/301/#'>Class 11</a>
 <br>
