@@ -77,6 +77,10 @@ const schema = new Schema({
 
 Status code 200 means everything is successful. Status code 201 means something was successfully created. 
 
+# What I want to know more about
+
+- Best practices for schema creation and validation
+
 >References
 >
 >[Status Codes Based On REST Methods](https://www.moesif.com/blog/technical/api-design/Which-HTTP-Status-Code-To-Use-For-Every-CRUD-App/)
