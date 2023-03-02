@@ -24,6 +24,10 @@ In a lot of different fields, diverse teams offer significant benefits for teams
 
 One example is how YouTube had a team of almost entirely right-handed developers and noone really considered left-handed people. Because of this, the 5-10% of left-handed users ended up with videos being uploaded upside down. 
 
+## Things I want to know more about
+
+- How I can affect or impact the diversity in tech
+
 >References
 >
 >[When Women Stopped Coding](https://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding)
