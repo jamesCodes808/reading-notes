@@ -14,7 +14,7 @@ An example of using the OAuth framework is when a user logs into or signs up for
 
 First we need a user that is already signed into a website or service. And that same user is trying to access another site.
 
-<details closed><summary>Steps to authenticate user with OAuth</summary> 
+<details open><summary>Steps to authenticate user with OAuth</summary> 
 
 1. The first website connects to the second website on behalf of the user, using OAuth, providing the user’s verified identity.
 
@@ -55,7 +55,7 @@ Authentication is the process of verifying who a user is, while authorization is
 
 The Authorizaton code flow are steps that authorization moves when the user logs in and is prompted to authorize and in turn gets an authorization code.
 
-<details closed> <summary> Authorization Code Flow </summary>
+<details open> <summary> Authorization Code Flow </summary>
 
 1. The user clicks Login within the regular web application.
 
@@ -83,8 +83,7 @@ The Authorizaton code flow are steps that authorization moves when the user logs
 
 Some apps cannot store a Client Secret, because it is either bound to the app, uses a custom url or because the client's entire source is available to the browser. So they required additional security because of this we have to add extra steps to the Authorization code flow.
 
-<details closed><summary>How it works:</summary>
-
+<details open><summary>How it works:</summary>
 
 1. The user clicks Login within the application.
 
@@ -114,7 +113,7 @@ Some apps cannot store a Client Secret, because it is either bound to the app, u
 
 The Implicit Flow is intended for public clients or applications that are unable to securely store client secrets. This is no longer considered best practice when requesting for Access Tokens. Here is how it works:
 
-<details closed><summary>How it works </summary> 
+<details open><summary>How it works </summary> 
 
 1. The user clicks Login in the app.
 
@@ -132,7 +131,7 @@ The Implicit Flow is intended for public clients or applications that are unable
 
 The client credentials flow is used when typical username+password or social logins don't make sense to use. It is when we need to use machine to machine authentications. 
 
-<details closed> <summary>How it works: </summary> 
+<details open> <summary>How it works: </summary> 
 
 1. The application authenticates with the Auth0 Authorization Server using its Client ID and Client Secret (/oauth/token endpoint).
 
@@ -150,7 +149,7 @@ The client credentials flow is used when typical username+password or social log
 
 With device authorization flow, we authenticate the user indirectly by asking the user to go to a link on their computer or mobile device to authorize the device. 
 
-<details closed> <summary>How it works: </summary> 
+<details open> <summary>How it works: </summary> 
 
 1. The user starts the app on the device.
 
@@ -180,7 +179,7 @@ With device authorization flow, we authenticate the user indirectly by asking th
 
 Not recommended but highly-trusted applications can use the Resource Owner Password Flow, which requests that users provide credentials (username and password), typically using an interactive form. The Resource Owner Password Flow should only be used when redirect-based flows
 
-<details closed><summary> How it works </summary> 
+<details open><summary> How it works </summary> 
 
 1. The user clicks Login within the application and enters their credentials.
 
