@@ -17,16 +17,49 @@ DELETE - Used for deleting rows from an existing table
 <details closed><summary>Exercises</summary>
 
 ![SQL bolt Task Complete](../assets/401presql/sqlbolt1.png)
+
+<br>
+
 ![SQL bolt Task Complete](../assets/401presql/sqlbolt2.png)
+
+<br>
+
 ![SQL bolt Task Complete](../assets/401presql/sqlbolt3.png)
+
+<br>
+
 ![SQL bolt Task Complete](../assets/401presql/sqlbolt4.png)
+
+<br>
+
 ![SQL bolt Task Complete](../assets/401presql/sqlbolt5.png)
+
+<br>
+
 ![SQL bolt Task Complete](../assets/401presql/sqlbolt6.png)
+
+<br>
+
 ![SQL bolt Task Complete](../assets/401presql/sqlbolt13.png)
+
+<br>
+
 ![SQL bolt Task Complete](../assets/401presql/sqlbolt14.png)
+
+<br>
+
 ![SQL bolt Task Complete](../assets/401presql/sqlbolt15.png)
+
+<br>
+
 ![SQL bolt Task Complete](../assets/401presql/sqlbolt16.png)
+
+<br>
+
 ![SQL bolt Task Complete](../assets/401presql/sqlbolt17.png)
+
+<br>
+
 ![SQL bolt Task Complete](../assets/401presql/sqlbolt18.png)
 </details>
 
