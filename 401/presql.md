@@ -63,6 +63,9 @@ DELETE - Used for deleting rows from an existing table
 ![SQL bolt Task Complete](../assets/401presql/sqlbolt18.png)
 </details>
 
+
+<br>
+
 >References
 >
 >[sql bolt](https://sqlbolt.com/)
