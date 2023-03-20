@@ -95,6 +95,8 @@ int Fibonacci(int number)
 
 - A deeper understanding of Big O and algorithms. I definitely want to at least be comfortable enough to reference it by memory
 
+- More practice solving algorithms
+
 > References
 >
 >[Pain vs. Suffering](https://codefellows.github.io/code-401-python-guide/curriculum/class-01/notes/pain_suffering)
