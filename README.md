@@ -119,7 +119,7 @@ Email: [jamesian.r.solima@gmail.com](mailto:jamesian.r.solima@gmail.com)
 <br>
 <a href='https://jamescodes808.github.io/reading-notes/401/presql'>Pre: SQL</a>
 <br>
-<a href='https://jamescodes808.github.io/reading-notes/401/#'>Class 1</a>
+<a href='https://jamescodes808.github.io/reading-notes/401/class-01'>Class 1</a>
 <br>
 <a href='https://jamescodes808.github.io/reading-notes/401/#'>Class 2</a>
 <br>
