@@ -113,6 +113,8 @@ Email: [jamesian.r.solima@gmail.com](mailto:jamesian.r.solima@gmail.com)
 ## Code 401 - Advanced Software Development ~ Python
 <details closed><summary>Classes</summary>
 
+<a href='https://jamescodes808.github.io/reading-notes/401/presql'>Pre: Terminal</a>
+<br>
 <a href='https://jamescodes808.github.io/reading-notes/401/presql'>Pre: SQL</a>
 <br>
 <a href='https://jamescodes808.github.io/reading-notes/401/#'>Class 1</a>
