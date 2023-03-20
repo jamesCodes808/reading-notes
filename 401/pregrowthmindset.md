@@ -16,6 +16,10 @@ Taking the emotional intelligence assessment I have learned that I am competent 
 
 For my bias assessment I scored pretty well in every category. This does not surprise me as I do not have many biases and am mostly open-minded. Even when a person or situation may seem bad, I try to stay open-minded and try to think of different reasons why a person may be acting the way that they do. But overrall I am a pretty inclusive person and because of my upbringing and ethnicity I do pretty well in a diverse or non-diverse crowd.
 
+## Things I want to know more about
+
+- Resources for growing technically and professionally
+
 
 > References
 >
