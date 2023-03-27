@@ -133,7 +133,7 @@ Email: [jamesian.r.solima@gmail.com](mailto:jamesian.r.solima@gmail.com)
 <br>
 <a href='https://jamescodes808.github.io/reading-notes/401/class-05'>Class 5: Linked Lists</a>
 <br>
-<a href='https://jamescodes808.github.io/reading-notes/401/#'>Class 6</a>
+<a href='https://jamescodes808.github.io/reading-notes/401/class-06'>Class 6</a>
 <br>
 <a href='https://jamescodes808.github.io/reading-notes/401/#'>Class 7</a>
 <br>
