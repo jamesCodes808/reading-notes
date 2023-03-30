@@ -1,4 +1,4 @@
-# Ten Thousand 2
+# Ten Thousand 2: Scope 
 
 ## Scope in Python
 

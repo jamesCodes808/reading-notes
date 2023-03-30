@@ -1,4 +1,4 @@
-# Ten Thousand Game 1
+# Ten Thousand Game 1: Random Module and Risk Analysis
 
 ## Random Module in Python
 

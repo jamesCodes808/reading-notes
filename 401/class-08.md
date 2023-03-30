@@ -1,4 +1,4 @@
-# Ten Thousand 3
+# Ten Thousand 3: List Comprehension and Decorators
 
 ## List Comprehensions
 
