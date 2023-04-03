@@ -143,7 +143,7 @@ Email: [jamesian.r.solima@gmail.com](mailto:jamesian.r.solima@gmail.com)
 <br>
 <a href='https://jamescodes808.github.io/reading-notes/401/class-10'>Class 10: Stacks and Queues </a>
 <br>
-<a href='https://jamescodes808.github.io/reading-notes/401/#'>Class 11</a>
+<a href='https://jamescodes808.github.io/reading-notes/401/class-11'>Class 11: JupyterLab and NumPy</a>
 <br>
 <a href='https://jamescodes808.github.io/reading-notes/401/#'>Class 12</a>
 <br>
