@@ -26,10 +26,10 @@ squared_list = [pow(i,2) for i in list]
 
 ## Decorators
 
-- What is a decorator in Python?
+### What is a decorator in Python?
 A decorator wraps a function which modifies its behavior.
 
-- Explain the concept of decorators in Python. How do they work, and what are some common use cases for them? Provide an example of a simple decorator function from the reading.
+### Explain the concept of decorators in Python. How do they work, and what are some common use cases for them? Provide an example of a simple decorator function from the reading.
 
 The way that decorators work is you have 4 pieces:
 1. A 'root level' function that takes a function in as an argument 

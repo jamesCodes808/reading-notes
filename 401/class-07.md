@@ -21,7 +21,7 @@ This is a special scope that is between global and local scope.
 
 ## Reading Q's
 
-- Explain the concept of variable scope in Python and describe the difference between local and global scope. 
+### Explain the concept of variable scope in Python and describe the difference between local and global scope. 
 Provide an example illustrating the usage of both.
 
 Variable scope is the first and most simple rule for scopes. It is that the scope of a variable/name depends on the place
@@ -48,7 +48,7 @@ def some_other_func():
 
 ```
 
-- How do the global and nonlocal keywords work in Python, and in what situations might you use them?
+### How do the global and nonlocal keywords work in Python, and in what situations might you use them?
 
 The way that the global keyword works in python is by binding a variable name to the keyword 'global' then on the next line, assigning it some data:
 ```python
@@ -74,13 +74,13 @@ This is useful when you want to get better encapsulation of data and restrict di
 
 ## Big O
 
-- In your own words, describe the purpose and importance of Big O notation in the context of algorithm analysis.
+### In your own words, describe the purpose and importance of Big O notation in the context of algorithm analysis.
 
 It is important because we can calculate which algorithm is the least time-consuming through big O notation. This will help us decide
 which algorithm to use in a certain situation. when there is big data involved, these big O space and time complexities are so important to 
 ensuring that time and space are being used at the most efficient level.
 
-- Based on the Rolling Dice Example, explain how you would simulate a dice roll using Python. 
+### Based on the Rolling Dice Example, explain how you would simulate a dice roll using Python. 
 Describe how you would use code to calculate the probability of rolling a specific number (e.g., the probability of rolling a 6) over a large number of trials.
 
 Based on the examples, I would simply import random module and use the randint(1,6) function with arguments of 1 through 6. 

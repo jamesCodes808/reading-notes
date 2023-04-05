@@ -1,6 +1,6 @@
 # Ten Thousand 4: Dunder Methods - Statistics - Probability
 
-- What is the purpose of dunder methods in Python? Provide an example of a commonly used dunder method.
+### What is the purpose of dunder methods in Python? Provide an example of a commonly used dunder method.
 
 Dunder methods allow us to emulate the same behavior as built-in types. One of the most commonly used dunder methods that I have seen is using a `__init__`. This initializes an object with a constructor so it can have built-in objects and default values. An example would be a user class. The user class will have a default name of 'user' and default account type of 'guest'.
 
@@ -14,13 +14,13 @@ class Person:
 ```
 
 
-- In the video “AI Guru makes $238,800 with misleading paid course,” what was the main ethical issue raised concerning the use of developers’ work, and how might this have been avoided?
+### In the video “AI Guru makes $238,800 with misleading paid course,” what was the main ethical issue raised concerning the use of developers’ work, and how might this have been avoided?
 
 The main ethical issue that I noticed in this video is how he misleads and lies about a lot of features of the courses he offers such as how many people were allowed in the course (which he tried to hide from people), a refund policy that never existed (which he added in after people were asking for it), and most importantly, the plagiarism of uncredited authors of code that he stole from in order to monetize from it. 
 
 This probably could have been avoided if proper attributions were made to the developers that he stole 'starter code' from.  
 
-- Describe the Python statistics module and give an example of a function within the module that can be used to perform a common statistical operation.
+### Describe the Python statistics module and give an example of a function within the module that can be used to perform a common statistical operation.
 
 The statistics module can be imported along with tools to help calculate averages and measures of central location, measures of spread and relations between two inputs. An example of a function within the statistics module that can be used to perform a common statistical operation is the `mean()` function. 
 
