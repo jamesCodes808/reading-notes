@@ -76,7 +76,7 @@ Email: [jamesian.r.solima@gmail.com](mailto:jamesian.r.solima@gmail.com)
 
 ## Code 301 - Intermediate Software Development
 <details closed><summary>Classes</summary>
-
+test test
 <a href='https://jamescodes808.github.io/reading-notes/301/class-01'>Class 1</a>
 <br>
 <a href='https://jamescodes808.github.io/reading-notes/301/class-02'>Class 2</a>
