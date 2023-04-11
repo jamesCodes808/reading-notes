@@ -156,6 +156,8 @@ Email: [jamesian.r.solima@gmail.com](mailto:jamesian.r.solima@gmail.com)
 <br>
 <a href='https://jamescodes808.github.io/reading-notes/401/class-16'>Class 16: Serverless Computing</a>
 <br>
-
+<br>
+<a href='https://jamescodes808.github.io/reading-notes/401/class-17'>Class 17: Web Scraping</a>
+<br>
 
 </details>
