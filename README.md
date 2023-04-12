@@ -159,5 +159,7 @@ test test
 <br>
 <a href='https://jamescodes808.github.io/reading-notes/401/class-17'>Class 17: Web Scraping</a>
 <br>
-
+<br>
+<a href='https://jamescodes808.github.io/reading-notes/401/class-18'>Class 18: Cryptography</a>
+<br>
 </details>
