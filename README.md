@@ -162,4 +162,7 @@ test test
 <br>
 <a href='https://jamescodes808.github.io/reading-notes/401/class-18'>Class 18: Cryptography</a>
 <br>
+<br>
+<a href='https://jamescodes808.github.io/reading-notes/401/class-19'>Class 19: Automation</a>
+<br>
 </details>
