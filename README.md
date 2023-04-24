@@ -165,4 +165,7 @@ test test
 <br>
 <a href='https://jamescodes808.github.io/reading-notes/401/class-19'>Class 19: Automation</a>
 <br>
+<br>
+<a href='https://jamescodes808.github.io/reading-notes/401/class-26'>Class 26: Intro to Django</a>
+<br>
 </details>
