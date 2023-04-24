@@ -28,6 +28,15 @@ A simple example for this is when a user makes a request to a Django web applica
 
 Tailwind CSS is a framework used for quickly building and customizing applications without having to write custom CSS. It uses a utility-first CSS framework design. These utility classes are used to control the layout, spacing, color, typography, shadows and more to create customized components and designs, all without writing a single line of custom CSS. 
 
+Unlike Bootstrap, which has a pre-defined set of classes for each UI element, Tailwind provides a set of utility classes that can be combined to create custom styles. This makes it more flexible and customizable than Bootstrap.
+
+## Things I want to know more about.
+
+- I want to get more hands on experience with Django and Tailwind CSS.
+
+- I want to know if you are able to use CSS frameworks like bootstrap, chakra or MUI with Django, and why Tailwind CSS is the best one. 
+
+
 
 > References
 >
