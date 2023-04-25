@@ -153,19 +153,16 @@ test test
 <br>
 <a href='https://jamescodes808.github.io/reading-notes/401/class-15'>Class 15: Trees</a>
 <br>
-<br>
 <a href='https://jamescodes808.github.io/reading-notes/401/class-16'>Class 16: Serverless Computing</a>
-<br>
 <br>
 <a href='https://jamescodes808.github.io/reading-notes/401/class-17'>Class 17: Web Scraping</a>
 <br>
-<br>
 <a href='https://jamescodes808.github.io/reading-notes/401/class-18'>Class 18: Cryptography</a>
-<br>
 <br>
 <a href='https://jamescodes808.github.io/reading-notes/401/class-19'>Class 19: Automation</a>
 <br>
-<br>
 <a href='https://jamescodes808.github.io/reading-notes/401/class-26'>Class 26: Intro to Django</a>
+<br>
+<a href='https://jamescodes808.github.io/reading-notes/401/class-27'>Class 27: Django Models</a>
 <br>
 </details>
