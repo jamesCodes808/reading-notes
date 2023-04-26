@@ -165,4 +165,6 @@ test test
 <br>
 <a href='https://jamescodes808.github.io/reading-notes/401/class-27'>Class 27: Django Models</a>
 <br>
+<a href='https://jamescodes808.github.io/reading-notes/401/class-28'>Class 28: Django CRUD and Forms</a>
+<br>
 </details>
