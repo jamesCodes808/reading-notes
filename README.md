@@ -167,6 +167,6 @@ test test
 <br>
 <a href='https://jamescodes808.github.io/reading-notes/401/class-28'>Class 28: Django CRUD and Forms</a>
 <br>
-<a href='https://jamescodes808.github.io/data-structures-and-algorithms/python/code_challenges/sorting_comparisons/README'>Class 29: Django Custom User</a>
+<a href='https://jamescodes808.github.io/reading-notes/401/class-29'>Class 29: Django Custom User</a>
 <br>
 </details>
