@@ -159,6 +159,12 @@ urlpatterns = [
 
 And just like that, DjangoX, will provide a pre-built template and layout for the home page. There are also other tools for authentication and user management that come with DjangoX that make it easier to implement than it would in vanilla Django. 
 
+## Things I want to know more about
+
+- How popular is DjangoX, and do industries use DjangoX over vanilla Django since it seems so intuitive
+
+- More hands on experience with DjangoX and how it can be used with the custom user models 
+
 >References
 >
 >[Django Best Practices: Custom User Model](https://learndjango.com/tutorials/django-custom-user-model)
