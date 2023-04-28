@@ -118,6 +118,8 @@ class HashTable:
 
 ## Things I want to know more about
 
+- How to efficiently handle collisions and get a better understanding of this algorithm
+
 > References
 >
 >[Intro to Hashtables](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-30/resources/Hashtables.html)
