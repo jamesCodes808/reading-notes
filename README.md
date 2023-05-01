@@ -171,4 +171,6 @@ test test
 <br>
 <a href='https://jamescodes808.github.io/reading-notes/401/class-30'>Class 30: Hash Tables</a>
 <br>
+<a href='https://jamescodes808.github.io/reading-notes/401/class-31'>Class 31: Django REST Framework & Docker</a>
+<br>
 </details>
