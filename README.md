@@ -173,4 +173,6 @@ test test
 <br>
 <a href='https://jamescodes808.github.io/reading-notes/401/class-31'>Class 31: Django REST Framework & Docker</a>
 <br>
+<a href='https://jamescodes808.github.io/reading-notes/401/class-32'>Class 32: Permissions & Postgresql</a>
+<br>
 </details>
