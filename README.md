@@ -177,4 +177,6 @@ test test
 <br>
 <a href='https://jamescodes808.github.io/reading-notes/401/class-33'>Class 33: Authentication & Production Server</a>
 <br>
+<a href='https://jamescodes808.github.io/reading-notes/401/class-34'>Class 34: API Deployment, CORS and WhiteNoise</a>
+<br>
 </details>
