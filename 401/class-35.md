@@ -38,6 +38,8 @@ In this example, each node is represented as a key in the dictionary, and its ne
 
 ## Things I want to know more about
 
+- A better understanding of the traversal and construction of a graph
+
 > References
 >
 >[Graphs](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/graphs.html)
