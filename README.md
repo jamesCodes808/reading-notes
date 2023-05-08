@@ -181,4 +181,6 @@ test test
 <br>
 <a href='https://jamescodes808.github.io/reading-notes/401/class-35'>Class 35: Graphs</a>
 <br>
+<a href='https://jamescodes808.github.io/reading-notes/401/class-36'>Class 36: DSA Review</a>
+<br>
 </details>
