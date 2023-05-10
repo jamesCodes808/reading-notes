@@ -183,6 +183,8 @@ test test
 <br>
 <a href='https://jamescodes808.github.io/reading-notes/401/class-36'>Class 36: DSA Review</a>
 <br>
-<a href='https://jamescodes808.github.io/reading-notes/401/class-37'>Class 37: React-Next</a>
+<a href='https://jamescodes808.github.io/reading-notes/401/class-37'>Class 37: React 1</a>
+<br>
+<a href='https://jamescodes808.github.io/reading-notes/401/class-38'>Class 38: React 2</a>
 <br>
 </details>
