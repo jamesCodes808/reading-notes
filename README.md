@@ -189,4 +189,6 @@ test test
 <br>
 <a href='https://jamescodes808.github.io/reading-notes/401/class-39'>Class 39: React 3</a>
 <br>
+<a href='https://jamescodes808.github.io/reading-notes/401/class-41'>Class 41: React 4</a>
+<br>
 </details>
