@@ -191,4 +191,6 @@ test test
 <br>
 <a href='https://jamescodes808.github.io/reading-notes/401/class-41'>Class 41: React 4</a>
 <br>
+<a href='https://jamescodes808.github.io/reading-notes/401/class-42'>Class 42: Pythonisms</a>
+<br>
 </details>
