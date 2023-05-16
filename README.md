@@ -193,4 +193,6 @@ test test
 <br>
 <a href='https://jamescodes808.github.io/reading-notes/401/class-42'>Class 42: Pythonisms</a>
 <br>
+<a href='https://jamescodes808.github.io/reading-notes/401/class-42.2'>Class 42.2: Ethics</a>
+<br>
 </details>
