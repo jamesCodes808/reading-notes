@@ -195,4 +195,6 @@ test test
 <br>
 <a href='https://jamescodes808.github.io/reading-notes/401/class-42.2'>Class 42.2: Ethics</a>
 <br>
+<a href='https://jamescodes808.github.io/reading-notes/401/class-43'>Class 43: OSS Contributions</a>
+<br>
 </details>
